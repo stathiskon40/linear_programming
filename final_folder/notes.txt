@@ -1,0 +1,4 @@
+Model predicts all prices down and they actually fall: 2024-08-05
+Model predicts only one price will go up: 2024-08-06
+Model predicts all prices wrong: 2024-08-07
+
